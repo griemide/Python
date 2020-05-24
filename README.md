@@ -1,7 +1,13 @@
 # Python
 
-Public projects and  installation hints
+Public projects and installation hints
 
+## Python distribution
+Already used Python distributions:
+1. [**Anaconda**](https://www.anaconda.com/)
+2. [**WinPython**](https://winpython.github.io/) portable (perferred)
+
+## Applications
 
 <!-- get image via remote url using html syntax -->
 <a href="https://micropython.org/" title="MicroPython">
