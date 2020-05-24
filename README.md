@@ -4,8 +4,8 @@ Public projects and installation hints
 
 ## Python distribution
 Already used Python distributions:
-1. [**Anaconda**](https://www.anaconda.com/)
-2. [**WinPython**](https://winpython.github.io/) portable (perferred)
+1. [**Anaconda**](https://www.anaconda.com/) - requires admin rights
+2. [**WinPython**](https://winpython.github.io/) portable (preferred)
 
 ## Applications
 
